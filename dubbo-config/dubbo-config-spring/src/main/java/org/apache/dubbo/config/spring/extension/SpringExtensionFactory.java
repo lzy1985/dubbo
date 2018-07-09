@@ -28,6 +28,7 @@ import org.springframework.context.ApplicationContext;
 import java.util.Set;
 
 /**
+ * 从Spring容器中去加载Extension
  * SpringExtensionFactory
  */
 public class SpringExtensionFactory implements ExtensionFactory {
